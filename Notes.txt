@@ -1,0 +1,22 @@
+INSTRUCTIONS TO MAKE THE WEBSITE 
+================================
+
+background-color : #f5d9df;
+heading color : #EA1C2C;
+para text color : #f498b8;
+
+font-sizes: I figured them out in rems by trial and error
+
+
+--Header--
+1. hand2.png disappers on screen size <=lg
+2. h2 headings' font size decreases on screen size <=1200px
+
+--Body--
+1. Images and text stack up on screen size <=md
+
+--Text--
+1. The distribution of space between 3 cols is 1:10:1 for screen size <=lg and 2:8:2 for screen size >=lg
+2. The text container has a bottom margin of 5 till the screen size <=md
+3. "lolli_icon.png" disappers on screen size <=lg
+    
